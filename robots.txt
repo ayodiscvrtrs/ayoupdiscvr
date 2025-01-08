@@ -5,4 +5,4 @@ User-agent: googlebot-mobile
 Disallow:   
 User-agent: *  
 Disallow: 
-Sitemap: https://d3gh7uhltl823i.cloudfront.net/sitemap.xml
+Sitemap: https://ayodiscvrtrs.github.io/ayoupdiscvr/sitemap.xml
